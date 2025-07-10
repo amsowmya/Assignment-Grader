@@ -1,0 +1,9 @@
+PyMuPDF 
+python-docx 
+requests 
+streamlit 
+python-dotenv
+fuzzywuzzy
+python-Levenshtein 
+fastapi 
+uvicorn
